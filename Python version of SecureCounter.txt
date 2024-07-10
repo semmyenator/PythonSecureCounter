@@ -1,4 +1,3 @@
-
 A Python version of SecureCounter class. following is Python code:
 
 class SecureCounter:
