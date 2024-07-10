@@ -1,0 +1,2 @@
+
+All code script is licensed under the MPL 2.0, GPLv3, and LGPLv3 licenses.
